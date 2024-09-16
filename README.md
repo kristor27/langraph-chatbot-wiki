@@ -12,7 +12,7 @@ This project implements a multi-agent chatbot using LangGraph, LangChain, and Op
 ## Installation
 
 1. Clone this repository:
-git clone https://github.com/yourusername/langraph-chatbot.git
+git clone https://github.com/kristor27/langraph-chatbot-wiki.git
 cd langraph-chatbot
 
 
