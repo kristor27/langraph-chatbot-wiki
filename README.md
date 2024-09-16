@@ -1,6 +1,6 @@
 # LangGraph Chatbot with External Tools
 
-This project implements a multi-agent chatbot using LangGraph, LangChain, and OpenAI's GPT model. The chatbot can access external tools like Wikipedia and ArXiv to provide more informed responses.
+This project implements achatbot agent using LangGraph, LangChain, and OpenAI's GPT model. The chatbot can access external tools like Wikipedia and ArXiv to provide more informed responses.
 
 ## Features
 
